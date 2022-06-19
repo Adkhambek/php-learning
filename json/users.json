@@ -1,0 +1,37 @@
+[
+  {
+    "username": "Adham",
+    "tel": "998998000334",
+    "email": "muzaffarov.adham@gmail.com",
+    "age": 23,
+    "gender": "male"
+  },
+  {
+    "username": "Hasan",
+    "tel": "998931210212",
+    "email": "muzaffarov.hasan@gmail.com",
+    "age": 19,
+    "gender": "male"
+  },
+  {
+    "username": "Fotima",
+    "tel": "998998000334",
+    "email": "muzaffarova.fotima@gmail.com",
+    "age": 19,
+    "gender": "female"
+  },
+  {
+    "username": "Abdulloh",
+    "tel": "998781502805",
+    "email": "muzaffarov.abulloh@gmail.com",
+    "age": 14,
+    "gender": "male"
+  },
+  {
+    "username": "Ulug'bek",
+    "tel": "998974420427",
+    "email": "muzaffarov.ulugbek@gmail.com",
+    "age": 47,
+    "gender": "male"
+  }
+]

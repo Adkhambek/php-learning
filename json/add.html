@@ -1,0 +1,10 @@
+<?php
+$users = json_decode(file_get_contents("users.json"));
+//echo "<pre>";
+//print_r($users);
+//echo "<pre>";
+$i = 1;
+foreach ($users as $user) {
+	echo $i.". <b>Username:</b> ".$user->username." and <b>Mail:</b> ".$user->email."<br>";
+	$i++;
+}
